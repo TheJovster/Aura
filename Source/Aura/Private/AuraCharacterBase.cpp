@@ -1,4 +1,4 @@
-#include "Characters/AuraCharacterBase.h"
+#include "AuraCharacterBase.h"
 
 // Sets default values
 AAuraCharacterBase::AAuraCharacterBase()
